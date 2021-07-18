@@ -2,7 +2,7 @@
 
 $host="fdb26.awardspace.net";
 $user="3426248_dummy";
-$password="";
+$password="#Akhilesh79851";
 $db="3426248_dummy";
 
 mysql_connect($host,$user,$password);
