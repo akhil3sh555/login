@@ -1,6 +1,6 @@
 <?php
 
-$host="host.address";
+$host="fdb26.awardspace.net";
 $user="3426248_dummy";
 $password="";
 $db="3426248_dummy";
